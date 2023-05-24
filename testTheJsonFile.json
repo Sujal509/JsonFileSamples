@@ -25,7 +25,7 @@
          "<br>",
          "On the right most column we also list a sampling of the expertise that we can provide."
       ],
-      "img-link": "https://images.immediate.co.uk/production/volatile/sites/4/2021/12/GettyImages-1093711310-hero-56c27f8.jpg"
+      "img_link": "https://images.immediate.co.uk/production/volatile/sites/4/2021/12/GettyImages-1093711310-hero-56c27f8.jpg"
    },
    {
       "id": 2,
@@ -52,7 +52,7 @@
          "On this page you will find an extensive list of the kind of specific tasks that we can handle and the corresponding positions for which you can RemoteStaff employees.<br>",
          "On the right most column we also list a sampling of the expertise that we can provide."
       ],
-      "img-link": "https://images.immediate.co.uk/production/volatile/sites/4/2021/12/GettyImages-1093711310-hero-56c27f8.jpg"
+      "img_link": "https://images.immediate.co.uk/production/volatile/sites/4/2021/12/GettyImages-1093711310-hero-56c27f8.jpg"
    },
    {
       "id": 3,
@@ -79,7 +79,7 @@
          "On this page you will find an extensive list of the kind of specific tasks that we can handle and the corresponding positions for which you can RemoteStaff employees.<br>",
          "On the right most column we also list a sampling of the expertise that we can provide."
       ],
-      "img-link": "https://cdn-icons-png.flaticon.com/512/888/888882.png"
+      "img_link": "https://cdn-icons-png.flaticon.com/512/888/888882.png"
    },
    {
       "id": 4,
@@ -106,6 +106,6 @@
          "On this page you will find an extensive list of the kind of specific tasks that we can handle and the corresponding positions for which you can RemoteStaff employees.<br>",
          "On the right most column we also list a sampling of the expertise that we can provide."
       ],
-      "img-link": "https://cdn-icons-png.flaticon.com/512/888/888882.png?"
+      "img_link": "https://cdn-icons-png.flaticon.com/512/888/888882.png?"
    }
 ]
