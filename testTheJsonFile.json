@@ -1,59 +1,64 @@
 [
    {
-    "id":1,
-    "title":"Software R & D and implementation",
-    "descr1":"Our Software R&D and Implementation practice area is designed to fully support a spectrum of your project requirements. Our dedicated and qualified offshore “RemoteStaff” team members can assist, lead, and/or augment your local team with the following functions:",
-    "img-link":"https://www.shutterstock.com/image-photo/digital-technology-software-development-concept-260nw-2111828198.jpg",
-    "infoA1":[
-     "<b>1.</b>Requirements gathering and analysis: Define and prioritize their software requirements, as well as perform analysis to ensure the software aligns with the organization's goals and objectives.","<br>",
-     "<b>2.</b>Requirements gathering and analysis: Define and prioritize their software requirements, as well as perform analysis to ensure the software aligns with the organization's goals and objectives.","<br>",
-     "<b>3.</b>Requirements gathering and analysis: Define and prioritize their software requirements, as well as perform analysis to ensure the software aligns with the organization's goals and objectives."
-    ],
-    "benifits":[
-       "<b>Significant Benefits:</b>","<br>",
-       "Save 65% on Employee Costs - you can save over $40,000 per employee per year - one simply cannot ignore such significant savings.","<br>",
-       "Hire 3 skilled professionals in India for the price of 1 in the US.","<br>",
-       "For example, hire skilled professionals with a Masters Degree starting at $10/hr (including complete infrastructure!)","<br>",
-       "Benefit from the best of both worlds - the loyalty that comes with an employee and the flexibility that comes with a contractor.","<br>",
-       "On this page you will find an extensive list of the kind of specific tasks that we can handle and the corresponding positions for which you can RemoteStaff employees.","<br>",
-       "On the right most column we also list a sampling of the expertise that we can provide."
-    ]
-    
+      "id": 1,
+      "title": "Software R & D and implementation",
+      "descr1": "Our Software R&D and Implementation practice area is designed to fully support a spectrum of your project requirements. Our dedicated and qualified offshore “RemoteStaff” team members can assist, lead, and/or augment your local team with the following functions:",
+      "infoA1": [
+         "<b>1.</b>Requirements gathering and analysis: Define and prioritize their software requirements, as well as perform analysis to ensure the software aligns with the organization's goals and objectives.",
+         "<br>",
+         "<b>2.</b>Requirements gathering and analysis: Define and prioritize their software requirements, as well as perform analysis to ensure the software aligns with the organization's goals and objectives.",
+         "<br>",
+         "<b>3.</b>Requirements gathering and analysis: Define and prioritize their software requirements, as well as perform analysis to ensure the software aligns with the organization's goals and objectives."
+      ],
+      "benifits": [
+         "<b>Significant Benefits:</b>",
+         "<br>",
+         "Save 65% on Employee Costs - you can save over $40,000 per employee per year - one simply cannot ignore such significant savings.",
+         "<br>",
+         "Hire 3 skilled professionals in India for the price of 1 in the US.",
+         "<br>",
+         "For example, hire skilled professionals with a Masters Degree starting at $10/hr (including complete infrastructure!)",
+         "<br>",
+         "Benefit from the best of both worlds - the loyalty that comes with an employee and the flexibility that comes with a contractor.",
+         "<br>",
+         "On this page you will find an extensive list of the kind of specific tasks that we can handle and the corresponding positions for which you can RemoteStaff employees.",
+         "<br>",
+         "On the right most column we also list a sampling of the expertise that we can provide."
+      ],
+      "img-link": "https://images.immediate.co.uk/production/volatile/sites/4/2021/12/GettyImages-1093711310-hero-56c27f8.jpg"
    },
-
    {
-       "id":2,
-       "title":"Graphics Design, Publishing",
-       "descr1":"Our Graphics Design, Publishing practice area is designed to fully support a spectrum of your requirements. Our dedicated and qualified offshore “RemoteStaff” team members can assist, lead, and/or augment your local team with the following functions:",
-       "infoA1":[
-        "1.<b>Graphic Design<b>: We Create logos, brochures, flyers, business cards, social media posts, website design, banner ads, and other marketing materials. ",
-        "2.<b>Print Production<b>: We create Layout design, typesetting, formatting, and printing of books, magazines, catalogs, newsletters, and other printed materials. ",
-        "3.<b>Web Design and Development:<b>  We Create and maintain websites, web applications, and e-commerce platforms.",
-        "4.<b>Illustration:<b> We Create digital or hand-drawn illustrations for books, magazines, websites, and other publications. ",
-        "5.<b> Photo Editing and Retouching:<b> We Manipulate digital images to enhance their quality or modify their appearance. ",
-        "6.<b> Branding and Identity Design:<b> We Create brand guidelines, visual identities, and style guides to ensure consistency across all marketing materials. ",
-        "7.<b> Multimedia Design:<b> We Create interactive presentations, videos, animations, and other multimedia content for websites, social media, and other digital platforms.",
-        "8.<b> Packaging Design:<b> We Create packaging designs for products, including the layout, graphics, and branding. ",
-        "9.<b>Copywriting and Content Creation:<b> We Create written content, such as blog posts, articles, product descriptions, and social media captions. ",
-        "10.<b> Marketing and Advertising:<b> We Develop marketing strategies, ad campaigns, and promotional materials for print, digital, and social media platforms.<b>Many more...<b>"
-     ],
-       "benifits":[
-          "<b>Significant Benefits:</b> <br>",
-          "Save 65% on Employee Costs - you can save over $40,000 per employee per year - one simply cannot ignore such significant savings<br>",
-          "Hire 3 skilled professionals in India for the price of 1 in the US<br>",
-          "For example, hire skilled professionals with a Masters Degree starting at $10/hr (including complete infrastructure!)<br>",
-          "Benefit from the best of both worlds - the loyalty that comes with an employee and the flexibility that comes with a contractor<br>",
-          "On this page you will find an extensive list of the kind of specific tasks that we can handle and the corresponding positions for which you can RemoteStaff employees.<br>",
-          "On the right most column we also list a sampling of the expertise that we can provide."
-       ],
-       "img-link":"https://cdn-icons-png.flaticon.com/512/888/888882.png"
-      },
-
-      {
-        "id":3,
-        "title":"Accounting & Finance",
-        "descr1":"Our Accounting & Finance practice area is designed to fully support a spectrum of your project requirements. Our dedicated and qualified offshore “RemoteStaff” team members can assist, lead, and/or augment your local team with the following functions:",
-        "infoA1":[
+      "id": 2,
+      "title": "Graphics Design, Publishing",
+      "descr1": "Our Graphics Design, Publishing practice area is designed to fully support a spectrum of your requirements. Our dedicated and qualified offshore “RemoteStaff” team members can assist, lead, and/or augment your local team with the following functions:",
+      "infoA1": [
+         "1.<b>Graphic Design<b>: We Create logos, brochures, flyers, business cards, social media posts, website design, banner ads, and other marketing materials. ",
+         "2.<b>Print Production<b>: We create Layout design, typesetting, formatting, and printing of books, magazines, catalogs, newsletters, and other printed materials. ",
+         "3.<b>Web Design and Development:<b>  We Create and maintain websites, web applications, and e-commerce platforms.",
+         "4.<b>Illustration:<b> We Create digital or hand-drawn illustrations for books, magazines, websites, and other publications. ",
+         "5.<b> Photo Editing and Retouching:<b> We Manipulate digital images to enhance their quality or modify their appearance. ",
+         "6.<b> Branding and Identity Design:<b> We Create brand guidelines, visual identities, and style guides to ensure consistency across all marketing materials. ",
+         "7.<b> Multimedia Design:<b> We Create interactive presentations, videos, animations, and other multimedia content for websites, social media, and other digital platforms.",
+         "8.<b> Packaging Design:<b> We Create packaging designs for products, including the layout, graphics, and branding. ",
+         "9.<b>Copywriting and Content Creation:<b> We Create written content, such as blog posts, articles, product descriptions, and social media captions. ",
+         "10.<b> Marketing and Advertising:<b> We Develop marketing strategies, ad campaigns, and promotional materials for print, digital, and social media platforms.<b>Many more...<b>"
+      ],
+      "benifits": [
+         "<b>Significant Benefits:</b> <br>",
+         "Save 65% on Employee Costs - you can save over $40,000 per employee per year - one simply cannot ignore such significant savings<br>",
+         "Hire 3 skilled professionals in India for the price of 1 in the US<br>",
+         "For example, hire skilled professionals with a Masters Degree starting at $10/hr (including complete infrastructure!)<br>",
+         "Benefit from the best of both worlds - the loyalty that comes with an employee and the flexibility that comes with a contractor<br>",
+         "On this page you will find an extensive list of the kind of specific tasks that we can handle and the corresponding positions for which you can RemoteStaff employees.<br>",
+         "On the right most column we also list a sampling of the expertise that we can provide."
+      ],
+      "img-link": "https://images.immediate.co.uk/production/volatile/sites/4/2021/12/GettyImages-1093711310-hero-56c27f8.jpg"
+   },
+   {
+      "id": 3,
+      "title": "Accounting & Finance",
+      "descr1": "Our Accounting & Finance practice area is designed to fully support a spectrum of your project requirements. Our dedicated and qualified offshore “RemoteStaff” team members can assist, lead, and/or augment your local team with the following functions:",
+      "infoA1": [
          "1.<b>Bookkeeping<b>: Maintain accurate financial records, including recording transactions, reconciling accounts, and generating financial statements.",
          "2.<b>Accounts payable and receivable<b>: Manage vendor invoices, payment processing, and customer billing and collections. ",
          "3.<b>Payroll processing:<b>   Calculate employee compensation, withholding taxes, and generating paychecks or direct deposits.",
@@ -65,23 +70,22 @@
          "9.<b> Audit support:<b> Prepare financial statements and other financial data for audits, as well as providing support during audit processes.",
          "10.<b> Financial software implementation and support:<b> Select, install, and maintain financial software systems to help improve efficiency and accuracy in financial processes.Many more...<b>"
       ],
-        "benifits":[
-           "<b>Significant Benefits:</b> <br>",
-           "Save 65% on Employee Costs - you can save over $40,000 per employee per year - one simply cannot ignore such significant savings<br>",
-           "Hire 3 skilled professionals in India for the price of 1 in the US<br>",
-           "For example, hire skilled professionals with a Masters Degree starting at $10/hr (including complete infrastructure!)<br>",
-           "Benefit from the best of both worlds - the loyalty that comes with an employee and the flexibility that comes with a contractor<br>",
-           "On this page you will find an extensive list of the kind of specific tasks that we can handle and the corresponding positions for which you can RemoteStaff employees.<br>",
-           "On the right most column we also list a sampling of the expertise that we can provide."
-        ],
-        "img-link":"https://cdn-icons-png.flaticon.com/512/888/888882.png"
-       },
-
-       {
-        "id":4,
-        "title":"Civil Engineering",
-        "descr1":"Our Civil Engineering practice area is designed to fully support a spectrum of your project requirements. Our dedicated and qualified offshore “RemoteStaff” team members can assist, lead, and/or augment your local team with the following functions:",
-        "infoA1":[
+      "benifits": [
+         "<b>Significant Benefits:</b> <br>",
+         "Save 65% on Employee Costs - you can save over $40,000 per employee per year - one simply cannot ignore such significant savings<br>",
+         "Hire 3 skilled professionals in India for the price of 1 in the US<br>",
+         "For example, hire skilled professionals with a Masters Degree starting at $10/hr (including complete infrastructure!)<br>",
+         "Benefit from the best of both worlds - the loyalty that comes with an employee and the flexibility that comes with a contractor<br>",
+         "On this page you will find an extensive list of the kind of specific tasks that we can handle and the corresponding positions for which you can RemoteStaff employees.<br>",
+         "On the right most column we also list a sampling of the expertise that we can provide."
+      ],
+      "img-link": "https://cdn-icons-png.flaticon.com/512/888/888882.png"
+   },
+   {
+      "id": 4,
+      "title": "Civil Engineering",
+      "descr1": "Our Civil Engineering practice area is designed to fully support a spectrum of your project requirements. Our dedicated and qualified offshore “RemoteStaff” team members can assist, lead, and/or augment your local team with the following functions:",
+      "infoA1": [
          "1.<b>CAD Drafting and Design Services<b>:We deal with CAD drafting and design services for a range of civil engineering projects, including land development, roadway design, and site planning.",
          "2.<b>Structural Engineering Services<b>:We Design and analysis services for a range of structures, including buildings, bridges, and tunnels. ",
          "3.<b> Geotechnical Engineering Services:<b>We do Soil testing, analysis, and design services for a range of civil engineering projects, including foundation design, slope stability analysis, and retaining wall design. ",
@@ -93,16 +97,15 @@
          "9.<b>  Land Development Services:<b>We have Land development services, including site planning, zoning analysis, and subdivision design.",
          "10.<b> Project Management Services:<b>  We have Project management services, including budgeting, scheduling, and risk management.<b>Many more...<b><b>"
       ],
-        "benifits":[
-           "<b>Significant Benefits:</b> <br>",
-           "Save 65% on Employee Costs - you can save over $40,000 per employee per year - one simply cannot ignore such significant savings<br>",
-           "Hire 3 skilled professionals in India for the price of 1 in the US<br>",
-           "For example, hire skilled professionals with a Masters Degree starting at $10/hr (including complete infrastructure!)<br>",
-           "Benefit from the best of both worlds - the loyalty that comes with an employee and the flexibility that comes with a contractor<br>",
-           "On this page you will find an extensive list of the kind of specific tasks that we can handle and the corresponding positions for which you can RemoteStaff employees.<br>",
-           "On the right most column we also list a sampling of the expertise that we can provide."
-        ],
-        "img-link":"https://cdn-icons-png.flaticon.com/512/888/888882.png?"
-       }
-     ]
-     
+      "benifits": [
+         "<b>Significant Benefits:</b> <br>",
+         "Save 65% on Employee Costs - you can save over $40,000 per employee per year - one simply cannot ignore such significant savings<br>",
+         "Hire 3 skilled professionals in India for the price of 1 in the US<br>",
+         "For example, hire skilled professionals with a Masters Degree starting at $10/hr (including complete infrastructure!)<br>",
+         "Benefit from the best of both worlds - the loyalty that comes with an employee and the flexibility that comes with a contractor<br>",
+         "On this page you will find an extensive list of the kind of specific tasks that we can handle and the corresponding positions for which you can RemoteStaff employees.<br>",
+         "On the right most column we also list a sampling of the expertise that we can provide."
+      ],
+      "img-link": "https://cdn-icons-png.flaticon.com/512/888/888882.png?"
+   }
+]
